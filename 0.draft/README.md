@@ -1,4 +1,4 @@
-# Lesson 0 - Черновой проект системы
+# Week 0 - Черновой проект системы
 
 https://miro.com/app/board/o9J_lofiGi4=/?moveToWidget=3074457366692067091&cot=14
 
